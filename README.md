@@ -91,13 +91,13 @@ Key features include:
 ## 🖼️ Screenshots
 
 ### 1. Driver "My Bookings" Dashboard
-![My Parking Bookings Dashboard](file:///C:/Users/Gaurav%20Kolhe/.gemini/antigravity/brain/6c2fad96-7cca-4553-a513-ce037891c67c/.system_generated/click_feedback/click_feedback_1785952387875.png)
+![My Parking Bookings Dashboard](img/click_feedback_1785952387875.png)
 
 ### 2. CSS Grid Parking Slot Visualizer
-![CSS Grid Slot Visualizer](file:///C:/Users/Gaurav%20Kolhe/.gemini/antigravity/brain/6c2fad96-7cca-4553-a513-ce037891c67c/.system_generated/click_feedback/click_feedback_1785952881613.png)
+![CSS Grid Slot Visualizer](img/click_feedback_1785952881613.png)
 
 ### 3. Digital Entry Pass Receipt
-![Digital Entry Pass Receipt](file:///C:/Users/Gaurav%20Kolhe/.gemini/antigravity/brain/6c2fad96-7cca-4553-a513-ce037891c67c/.system_generated/click_feedback/click_feedback_1785954316424.png)
+![Digital Entry Pass Receipt](img/click_feedback_1785954316424.png)
 
 ---
 
